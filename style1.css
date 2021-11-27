@@ -5,7 +5,7 @@ html{
 	height: 100%;
 	font-family: 'Montserrat', sans-serif;
 
-	background: url(https://www.3djuegos.com/juegos/13456/new_retro_arcade_neon/fotos/maestras/new_retro_arcade_neon-3436123.jpg) no-repeat center center fixed; 
+	background: url(header.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -25,7 +25,7 @@ h1{
 	font-weight: 700;
 	border-radius: 300px;
 	text-transform: uppercase;
-	color: white;
+
 }
 
 .btn-info{
@@ -41,8 +41,6 @@ border-color: white;
 	border-width: 4px;
 	transition: all 1s;
 	transform: scale(1.5);
-	text-decoration:none; 
-  	color: white;
 
 }
 

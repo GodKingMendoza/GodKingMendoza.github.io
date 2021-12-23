@@ -1,3 +1,4 @@
+
 body{
     margin: auto 0;
     font-family: Arial;
@@ -84,11 +85,13 @@ a{
     display: grid;
     grid-gap: 20px;
     grid-template-columns: 2fr 2fr 2fr; 
+    height: 48vh;
     
 }
 
 .box > img{
     width: 100%;
+    height: 100%;
 }
 
 .box{
@@ -108,8 +111,11 @@ a{
 }
 
 footer{
-
-    text-align: center;
+position:fixed;
+    bottom:0px;
+    width:100%;
+    text-align:center;
+   
 }
 
 
@@ -169,3 +175,4 @@ footer{
 .gray{
     background: #d8d8d8;
 }
+

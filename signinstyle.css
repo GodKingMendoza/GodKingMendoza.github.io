@@ -70,10 +70,9 @@ a{
 
 
 }
-ul{
+ul, h1{
 	list-style: none;
 	font-family: Arial;
+    color: #ffffff;
 }
 
-h1{
-    color: #ffffff;

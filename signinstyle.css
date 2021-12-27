@@ -62,11 +62,13 @@ a{
     align-items: center;
     justify-content: center;
     background-image: url("https://GodKingMendoza.github.io/Signin.jpg");
-    color: white;
 
 
 }
 
+h1, li{
+    color: white;
+}
 ul{
 	list-style: none;
 	font-family: Arial;
